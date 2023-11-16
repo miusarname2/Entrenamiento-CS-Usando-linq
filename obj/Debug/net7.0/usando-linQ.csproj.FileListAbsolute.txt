@@ -1,0 +1,14 @@
+C:\Users\scrum\Desktop\usando-linQ\bin\Debug\net7.0\usando-linQ.exe
+C:\Users\scrum\Desktop\usando-linQ\bin\Debug\net7.0\usando-linQ.deps.json
+C:\Users\scrum\Desktop\usando-linQ\bin\Debug\net7.0\usando-linQ.runtimeconfig.json
+C:\Users\scrum\Desktop\usando-linQ\bin\Debug\net7.0\usando-linQ.dll
+C:\Users\scrum\Desktop\usando-linQ\bin\Debug\net7.0\usando-linQ.pdb
+C:\Users\scrum\Desktop\usando-linQ\obj\Debug\net7.0\usando-linQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scrum\Desktop\usando-linQ\obj\Debug\net7.0\usando-linQ.AssemblyInfoInputs.cache
+C:\Users\scrum\Desktop\usando-linQ\obj\Debug\net7.0\usando-linQ.AssemblyInfo.cs
+C:\Users\scrum\Desktop\usando-linQ\obj\Debug\net7.0\usando-linQ.csproj.CoreCompileInputs.cache
+C:\Users\scrum\Desktop\usando-linQ\obj\Debug\net7.0\usando-linQ.dll
+C:\Users\scrum\Desktop\usando-linQ\obj\Debug\net7.0\refint\usando-linQ.dll
+C:\Users\scrum\Desktop\usando-linQ\obj\Debug\net7.0\usando-linQ.pdb
+C:\Users\scrum\Desktop\usando-linQ\obj\Debug\net7.0\usando-linQ.genruntimeconfig.cache
+C:\Users\scrum\Desktop\usando-linQ\obj\Debug\net7.0\ref\usando-linQ.dll
