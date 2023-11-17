@@ -5,5 +5,6 @@ namespace usando_linQ.Entidades
     public string? Name { get; set; }
     public string? Color { get; set; }
     public string? Size { get; set; }
+    public double ? Price { get; set; }
   }
 }

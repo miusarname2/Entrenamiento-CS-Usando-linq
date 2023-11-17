@@ -2,6 +2,31 @@
   {
     "Name": "Apple",
     "Size": "Large",
-    "Color": "Red"
+    "Color": "Red",
+    "Price": 150.3
+  },
+  {
+    "Name": "Pear",
+    "Size": "Medium",
+    "Color": "Red",
+    "Price": 15.5
+  },
+  {
+    "Name": "strawberry",
+    "Size": "smaller",
+    "Color": "Red",
+    "Price": 1515
+  },
+  {
+    "Name": "Blackberry",
+    "Size": "small",
+    "Color": "black",
+    "Price": 150.36
+  },
+  {
+    "Name": "Bleck",
+    "Size": "small",
+    "Color": "black",
+    "Price": 150.36
   }
 ]

@@ -31,5 +31,17 @@ namespace usando_linQ.Entidades
         {
             return lstFruits;
         }
+
+        public IEnumerable<Fruit> GetFruitsByPriceGte()
+        {
+            Console.WriteLine(from fruit in lstFruits where fruit.Price > 15 select fruit);
+            return from fruit in lstFruits where fruit.Price > 15 select fruit;
+        }
+
+        public IEnumerable<Fruit> GetFruitsWithO()
+        {
+            Console.WriteLine(from fruit in lstFruits where fruit.Price > 15 select fruit);
+            return from fruit in lstFruits where fruit.Price > 15 && (fruit.Name ?? string.Empty).Contains("a") select fruit;
+        }
     }
 }
