@@ -12,3 +12,10 @@ C:\Users\scrum\Desktop\usando-linQ\obj\Debug\net7.0\refint\usando-linQ.dll
 C:\Users\scrum\Desktop\usando-linQ\obj\Debug\net7.0\usando-linQ.pdb
 C:\Users\scrum\Desktop\usando-linQ\obj\Debug\net7.0\usando-linQ.genruntimeconfig.cache
 C:\Users\scrum\Desktop\usando-linQ\obj\Debug\net7.0\ref\usando-linQ.dll
+C:\Users\scrum\Desktop\usando-linQ\bin\Debug\net7.0\Aqua.dll
+C:\Users\scrum\Desktop\usando-linQ\bin\Debug\net7.0\Aqua.Newtonsoft.Json.dll
+C:\Users\scrum\Desktop\usando-linQ\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\scrum\Desktop\usando-linQ\bin\Debug\net7.0\Remote.Linq.dll
+C:\Users\scrum\Desktop\usando-linQ\bin\Debug\net7.0\Remote.Linq.Newtonsoft.Json.dll
+C:\Users\scrum\Desktop\usando-linQ\obj\Debug\net7.0\usando-linQ.csproj.AssemblyReference.cache
+C:\Users\scrum\Desktop\usando-linQ\obj\Debug\net7.0\usando-linQ.csproj.CopyComplete
